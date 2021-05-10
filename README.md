@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue">
 </a>
 <a href="https://www.instagram.com/_emreozkaya_"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=red"></a>
-<a href="https://mail.google.com/0emre.ozkaya0@gmail.com"><img src="https://img.shields.io/badge/@Gmail-D1483?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKHQdGTGHhQvDhbFCjgkBbVhxFklNfbmMwrVgzzkfWRcpzxwtFZbzJxFhXHhXqvDwdpnPWg"><img src="https://img.shields.io/badge/@Gmail-D1483?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </p>
 <p align="center">
