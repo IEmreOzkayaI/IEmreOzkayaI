@@ -1,1 +1,1 @@
-<h2 align="center"> Junior Software Developer </h2>
+![git_read_im](https://user-images.githubusercontent.com/72611040/221982945-aa18a6cc-2c40-48a0-be9c-30b4b60c20f1.jpg)
